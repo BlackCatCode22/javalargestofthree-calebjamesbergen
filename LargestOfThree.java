@@ -1,3 +1,7 @@
+// Largest of Three Program
+// Caleb Bergen
+// 2/16/23
+
 import java.util.Scanner;
 
 public class LargestOfThree
